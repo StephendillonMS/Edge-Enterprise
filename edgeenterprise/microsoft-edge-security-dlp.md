@@ -41,7 +41,7 @@ To learn more about Endpoint DLP, use the following resources:
 
 Microsoft Edge enforces admin-configured policies for sensitive files, and records audit events for non-compliant activities.
 
-Some of the user activities that you can audit and manage on devices running Windows 10 include the following activities:
+Some of the user activities you can audit and manage on devices running Windows 10 include the following activities:
 
 - File Upload: Protect sensitive file upload to unauthorized cloud locations. <!-- The next 3 screenshots show a sequence where a user tries to drop a sensitive data file on to their local storage.-->
 - Clipboard Protection: Protect sensitive data from being copied out of the file.
@@ -52,7 +52,7 @@ For more detailed information about user activities you can audit and manage, se
 
 ## Windows Information Protection
 
-Check out [Support for Windows Information Protection](./microsoft-edge-security-windows-information-protection.md), which describes how Microsoft Edge supports Windows Information Protection (WIP). You can learn moe about system requirements, benefits, and supported features in the following sections:
+Check out [Support for Windows Information Protection](./microsoft-edge-security-windows-information-protection.md), which describes how Microsoft Edge supports Windows Information Protection (WIP). You can learn more about system requirements, benefits, and supported features in the following sections:
 
 - [System Requirements](./microsoft-edge-security-windows-information-protection.md#system-requirements)
 - [Windows Information Protection Benefits](./microsoft-edge-security-windows-information-protection.md#windows-information-protection-benefits)
